@@ -1,0 +1,40 @@
+
+.addproduct{
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color:rgb(221, 221, 240);
+    margin-top: 20px;
+  }
+  .h6{
+    text-align:start;
+    padding-top: 10px;
+  }
+  
+.names{
+    
+    padding-left: 60px;
+    font-size: 20px;
+    width: 600px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+     
+  }
+  
+  .button {
+      width: 350px;
+      height: 50px;
+      border-radius: 15px;
+      background-color: #004356;
+      color: white;
+      font-size: 25px;
+      border: none;
+      margin-top: 20px;
+    }
+     

@@ -1,0 +1,58 @@
+.cart {
+    padding-bottom: 1000px;
+    background-color: rgb(221, 221, 240);
+  }
+  .head {
+    margin-top: 50px;
+  }
+  .delete-i {
+    background-color: red;
+    
+  }
+  .disp1 {
+    margin-left: 20px;
+    background-color: #595959;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+  }
+  .pay {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #004356;
+    color: white;
+  }
+  .total {
+    margin-left: 1500px;
+    background-color: #fff;
+  }
+  .total-pre {
+    margin-left: 1380px;
+    margin-top: 20px;
+    font-size: 25px;
+  }
+  .img-cart {
+    height: 50;
+    width: 170;
+    width: 100px;
+    height: 100px;
+  }
+  
+
+  .complete{
+    text-decoration: line-through;
+    text-decoration-color: red;
+  
+}
+.a{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      color:white;
+   
+}  
+p{
+    font-family: cursive;
+}
